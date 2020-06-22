@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="alert">Alert</string>
+    <string name="oops_something_went_wrong">Something went wrong</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="title_add_transaction">Add transaction</string>
+    <string name="account_name_required">Account name required</string>
+    <string name="please_select">Please select</string>
+    <string name="select_income">Select income</string>
+    <string name="select_expense">Select expense</string>
+    <string name="select_account">Select account</string>
+    <string name="enter_amount">Amount</string>
+    <string name="balance">Balance</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_update">Update</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="you_want_to_update_or_delete">Do you want to update or delete?</string>
+    <string name="are_you_sure_you_want_to_delete_item">Are you sure? You want to delete item?</string>
+    <string name="are_you_sure_you_want_to_delete_expense">Are you sure? You want to delete expense?</string>
+    <string name="are_you_sure_you_want_to_delete_income">Are you sure? You want to delete income?</string>
+    <string name="are_you_sure_you_want_to_delete_account">Are you sure? You want to delete account?</string>
+    <string name="expense_is_required">Expense name is required.</string>
+    <string name="income_is_required">Income name is required.</string>
+    <string name="account_name_is_required">Account name is required.</string>
+    <string name="amount_is_required">Amount is required.</string>
+    <string name="update_expense_name">Update expense name</string>
+    <string name="update_income_name">Update income name</string>
+    <string name="update_account_name">Update Account name</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="transaction_added_successful">Transaction added successful</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryDark">#900A22</color>
+    <color name="colorPrimary">#A41726</color>
+    <color name="colorAccent">#252525</color>
+
+    <color name="colorTabIndicator">#810020</color>
+    <color name="colorTabSelectedTextColor">#EAEAEA</color>
+    <color name="colorTabText">#FFFFFF</color>
+    <color name="colorChipGray">#AF9393</color>
+
+    <color name="color_green">#27b975</color>
+
+    <color name="color_chip_normal">#B3B3B3</color>
+    <color name="view_background">#E6E6E6</color>
+    <color name="red_light_color">#FFD5D2</color>
+    <color name="red_text">#BA0A0A</color>
+    <color name="green_text">#1AC345</color>
+</resources>
